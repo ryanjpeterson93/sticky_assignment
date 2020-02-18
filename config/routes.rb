@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'notes#index'
+  root 'static_notes#home'
 
   resources :notes
 
