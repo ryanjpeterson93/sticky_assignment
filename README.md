@@ -1,24 +1,22 @@
-# README
+# Rails - Post It Notes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Assignment given as part of the DevPoint Labs Full Stack Web Development Course
 
-Things you may want to cover:
+#### Week 2
 
-* Ruby version
 
-* System dependencies
+Basic Objectives
 
-* Configuration
+1. Create a new rails application with a postgres database.
 
-* Database creation
+2. Create a model for a Note
 
-* Database initialization
+3. Create a controller for Notes
 
-* How to run the test suite
+4. Implement all of the CRUD actions for Notes
 
-* Services (job queues, cache servers, search engines, etc.)
+5. Create all of the Views for Notes (Index, Show, Edit, New)
 
-* Deployment instructions
+7. Create A Home page
 
-* ...
+8. Submit Github URL
